@@ -21,7 +21,7 @@
   <samp>I am a Junior Software Developer 💻, currently studying fullstack software development focusing on HTML, CSS, Javascript, and Python. I am also gaining experience with Bootstrap, jQuery, and Flask as well as others as I progress. Feel free to check out some of my projects below and feel free to star,fork them or send me a message.
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+  <img src="https://komarev.com/ghpvc/?username=lukeduffy84" alt="https://github.com/ileriayo" />
 </p>
 
 <hr>
@@ -39,6 +39,5 @@
 
 <h2  align="center">💻 My Github Stats ⬇️ </h2>
 
-(https://github-readme-stats.vercel.app/api?username=lukeduffy84)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukeduffy84)](https://github.com/anuraghazra/github-readme-stats)
 
