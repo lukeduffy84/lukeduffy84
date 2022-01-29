@@ -6,7 +6,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=25&lines=Full+Stack+Developer;Focused+on+HTML%2CCSS%2C+Javascript+and+Python;Experience+with+Bootstrap%2C+jQuery%2C+and+Flask+;Always+progressing+and+learning+new+skills)](https://git.io/typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23FF88F2&size=24&duration=3400&width=500&height=70&lines=Junior+Full+Stack+Developer;%2B3+Years+Experience+;Experience+with+HTML%2FCSS+;Skilled+in+Javascript+%26+Python"></a>
 </p>
 
 <p align="center">
@@ -37,14 +37,8 @@
 <hr>
 
 
-<h2 
+<h2  align="center">💻 My Github Stats ⬇️ </h2>
 
-> My Github Stats</h2>
-
-
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-
-
+(https://github-readme-stats.vercel.app/api?username=lukeduffy84)](https://github.com/anuraghazra/github-readme-stats)
 
 
