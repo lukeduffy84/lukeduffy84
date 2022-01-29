@@ -28,10 +28,11 @@
 
 
 
-
+<p align="center">
 [![my repos][15]][15]
 [![email][18]][18]
 [![location][19]][19]
+</p>
 
 [![open issue][20]][20]
 [![discuss][21]][21]
