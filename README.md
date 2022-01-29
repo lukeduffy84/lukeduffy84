@@ -42,6 +42,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lukeduffy84&show_icons=true&theme=buefy"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeduffy84"/>
+</p>
 
-![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukeduffy84&show_icons=true&theme=buefy)
 
