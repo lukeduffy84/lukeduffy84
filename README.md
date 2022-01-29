@@ -40,5 +40,5 @@
 <h2  align="center">💻 My Github Stats ⬇️ </h2>
 
 
-![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukeduffy84&show_icons=true&theme=gradient)
+![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukeduffy84&show_icons=true&theme=buefy)
 
