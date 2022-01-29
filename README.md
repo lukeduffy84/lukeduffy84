@@ -26,28 +26,10 @@
 
 
 
-[![stars][1]][1]
-[![open issues][2]][2]
-[![license][3]][3]
-[![build][4]][4]
-[![last commit][5]][5]
-[![total contributions][26]][26]
 
-[![code size][6]][6]
-[![pr closed][7]][7]
-[![tag][8]][8]
-[![rating][9]][9]
-[![github streak][25]][25]
 
-[![followers][10]][10]
-[![stars][11]][11]
-[![fork][12]][12]
-[![watch][13]][13]
-[![downloads social][14]][14]
 
 [![my repos][15]][15]
-[![downloads][16]][16]
-[![phone][17]][17]
 [![email][18]][18]
 [![location][19]][19]
 
