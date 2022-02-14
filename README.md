@@ -37,21 +37,23 @@
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-
 <hr>
-<h2> 🔭 Tools of Trade</h2>
-<p>
-![Alt Text](https://user-images.githubusercontent.com/63915089/153899625-20eb8eb1-e94d-4250-9d62-30ba7fd763c2.gif)
-![Alt Text](https://user-images.githubusercontent.com/63915089/153900312-e037bbcb-b89d-4b8f-be9e-d0d1c9589d04.gif)
-</p>
+<h2 align="center"> Some of My Projects ⬇️</h2>
+<div align="center">
+
+<a href="https://github.com/lukeduffy84/cook_club_real"><img src="https://user-images.githubusercontent.com/63915089/153899625-20eb8eb1-e94d-4250-9d62-30ba7fd763c2.gif" /></a>
+<a  href="https://github.com/lukeduffy84/grinch-memory-game"><img src="https://user-images.githubusercontent.com/63915089/153900312-e037bbcb-b89d-4b8f-be9e-d0d1c9589d04.gif"/></a>
+</div>
 <hr>
 <h2  align="center">💻 My Github Stats ⬇️ </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukeduffy84&show_icons=true&theme=buefy"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lukeduffy84&show_icons=true&theme=buefy" style="width:50%;heigth:20%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeduffy84"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeduffy84" style="width:50%;heigth:16%"/>
 </p>
+
+
 
 
