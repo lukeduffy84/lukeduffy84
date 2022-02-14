@@ -45,8 +45,6 @@
 <a  href="https://github.com/lukeduffy84/grinch-memory-game"><img src="https://user-images.githubusercontent.com/63915089/153900312-e037bbcb-b89d-4b8f-be9e-d0d1c9589d04.gif"/></a>
 <a  href="https://github.com/lukeduffy84/gym_subscription_ms4_2"><img src="https://user-images.githubusercontent.com/63915089/153963220-5ab48db7-5f1b-4b1c-8958-555b32d6672b.gif"/></a>
 </div>
-![Screen_Recording_2022-02-14_at_23_13_15_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/63915089/153963220-5ab48db7-5f1b-4b1c-8958-555b32d6672b.gif)
-
 
 
 
