@@ -43,6 +43,7 @@
 ![Alt Text](https://user-images.githubusercontent.com/63915089/153899625-20eb8eb1-e94d-4250-9d62-30ba7fd763c2.gif)
 ![Alt Text](https://user-images.githubusercontent.com/63915089/153900312-e037bbcb-b89d-4b8f-be9e-d0d1c9589d04.gif)
 
+<hr>
 <h2  align="center">💻 My Github Stats ⬇️ </h2>
 
 <p align="center">
